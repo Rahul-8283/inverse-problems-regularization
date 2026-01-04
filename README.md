@@ -18,4 +18,4 @@ A compact toolkit to demonstrate instability of naive pseudoinverse solutions fo
 ## Notes
 - Scope is currently 1D signals only.
 - Forward operator defaults to a Gaussian blur to induce ill-posedness.
-- Set `GROQ_API_KEY` to enable the optional LLM step; otherwise stub outputs are written.
+- Set `GROQ_API_KEY` to enable the optional LLM step; otherwise stub outputs are written..
